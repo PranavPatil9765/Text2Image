@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cloudinary": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "innit": "^0.0.0",
+    "mongoose": "^8.5.1",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.4",
+    "openai": "^4.52.7"
+  }
+}

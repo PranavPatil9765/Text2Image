@@ -1,0 +1,12 @@
+:root{
+    --primary-color: #17153B;
+    --sec-color: #2E236C;
+    --ter-color: #433D8B;
+    --quar-color: #C8ACD6;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
